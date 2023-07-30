@@ -1,4 +1,4 @@
-Usage
+Commands
 =====
 
 .. _help:
