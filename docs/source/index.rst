@@ -2,21 +2,17 @@ Welcome to Koyn documentation !
 ===================================
 
 **Koyn** is a discord data visualization bot for the game albion online
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+You can join the documentation development team and help to develop our documentation !
+`to do that follow the steps on this page <https://world.openfoodfacts.org/>`_
 
 .. note::
 
-   This project is under active development.
+   This project is under active development and all the content written here are from the community and revision may be necessary.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   commands
+   joinus
