@@ -1,7 +1,7 @@
 Documentation written by the community
 =======================================
 
-This project is the documentation written by the community to be incorporated into the bot's official website.
+This project is the documentation about how to use the Koyn bot, written by the community and will be incorporated into the Koyn bot official website later.
 
 If you want to help this documentation develop, join our discord: https://discord.gg/MttV6XVwTQ
 
