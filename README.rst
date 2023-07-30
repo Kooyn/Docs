@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Documentation written by the community
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This project is documentation written by the community to be incorporated into the bot's official website.
 
-Read the tutorial here:
+If you want to help this documentation develop, join our discord: https://discord.gg/MttV6XVwTQ
 
-https://docs.readthedocs.io/en/stable/tutorial/
+acquire the role to see the Koyn channels and then go to #roles-koyn and acquire the Beta role and ask for access to the documentation on the channel #Beta-tools
