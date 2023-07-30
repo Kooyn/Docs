@@ -1,6 +1,6 @@
 Documentation written by the community
 =======================================
-.. image:: images/logo.png
+.. image:: Images/logo.png
 
 This project is the documentation about how to use the Koyn bot, written by the community and will be incorporated into the Koyn bot official website later.
 
