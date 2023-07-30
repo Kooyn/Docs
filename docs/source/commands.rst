@@ -20,4 +20,4 @@ Different type of helps
 The bot also has others helps commands, for example the /helpadmin
 
 The ``/helpadmin`` show you all the commands the admin can use,
-while the ``"/helpsub"`` show you all the commands about subs.
+while the ``/helpsub`` show you all the commands about subs.
