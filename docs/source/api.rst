@@ -1,5 +1,5 @@
 Help the docs
-===
+=====
 
 If you want to help develop the documentation,
 join our discord, https://discord.gg/MttV6XVwTQ and acquire the role to see Koyn channels,
